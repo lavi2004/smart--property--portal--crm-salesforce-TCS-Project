@@ -1,5 +1,4 @@
-# smart--property--portal--crm-salesforce-TCS-Project
-The Smart Property Portal is a Salesforce CRM solution for the real estate industry that streamlines lead management, property tracking, visit scheduling, and deal closure. With automation, dashboards, and integrations, it empowers sales teams to boost engagement, prioritize buyers, and accelerate conversions.
+# 🏡 Smart Property Portal – Real Estate Customer Engagement & Lead Conversion System
 
 ## 📌 Project Overview
 A Salesforce CRM project designed for the **Real Estate industry** to manage leads, property listings, visit schedules, deal closures, and reporting.
@@ -63,9 +62,10 @@ Implement Salesforce CRM to:
 ## 🚀 Project Setup
 
 1. Clone this repository  
-   git clone https://github.com/lavi2004/smart--property--portal--crm-salesforce-TCS-Project/tree/main
-
-
+   ```bash
+   git clone https://github.com/lavi2004/smart-property-portal-crm.git
+   cd smart-property-portal-crm
+   ```  
 
 2. Deploy metadata files to your Salesforce org using **Salesforce CLI** or **Change Sets**.  
 
@@ -76,5 +76,22 @@ Implement Salesforce CRM to:
    - Deal Closure Stages  
    - Reports & Dashboards  
 
+---
 
-  
+## 📸 Screenshots
+
+### 🖼️ Project Flow  
+![Project Flow](docs/flowchart.png)
+
+### 🖼️ Dashboard Example  
+![Dashboard](images/dashboard.png)
+
+---
+
+## 🤝 Contribution
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.  
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.  
