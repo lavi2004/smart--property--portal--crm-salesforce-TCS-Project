@@ -63,9 +63,8 @@ Implement Salesforce CRM to:
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/lavi2004/smart-property-portal-crm.git
-   cd smart-property-portal-crm
-   ```  
+   git clone https://github.com/lavi2004/smart--property--portal--crm-salesforce-TCS-Project
+   
 
 2. Deploy metadata files to your Salesforce org using **Salesforce CLI** or **Change Sets**.  
 
